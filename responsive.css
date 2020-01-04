@@ -1,0 +1,98 @@
+@media only screen and (max-width: 1023px) {
+    
+    .main{
+        width: 95%;
+        margin-left: 3%;
+        color: white;
+    } 
+    
+    .box h3{
+        
+        font-size: 90%;
+    }
+    .icon-features{
+    font-size:200%;
+    color: orange;
+    
+    margin-left:1%;
+    }   
+    
+    .box p{
+        font-size: 80%;
+       
+    }
+    .iphoneimg{
+        width: 33%;
+        margin-right: 12%;
+    }
+    .row{
+        margin-left: 3%;
+        margin-right: 2%;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .main h2{
+        font-size: 150%;
+    } 
+    .main a{
+        font-size: 80%;
+    }
+    nav ul li a{
+        font-size: 20%;
+    }
+    .col{
+        width: 100%;
+    }
+    .row h2{
+        font-size: 130%;
+        margin-left: 15%;
+    }
+    .row h2:after{
+        margin-left: 30%;
+    }
+    .iphoneimg{
+        margin-right: 37%;
+    }
+    .steps div{
+    width: 3%;
+    border-radius:50%;
+    padding: 6px 20px 7px 13px;
+    }
+    .steps p{
+        margin-top: 1%;
+    }
+    .steps p:last-of-type{
+        margin-top: 8%;
+    }
+    .androidapp{
+        width: 20%;
+        margin-left: 25%;
+    }
+    .iphoneapp{
+        width: 23%;
+    }
+    .cities-box img{
+        margin-left: 3%;
+    }
+    .box1{
+        width: 95%;
+    }
+    .box1:first-child{
+        margin-left: 2%;
+        width:94%;
+    }
+    .letter{
+        margin-left:27%;
+        width: 100%;
+    }
+    .signup{
+        margin-left: 35%;
+    }
+    
+}
+@media  omly screen and(max-width:479px){
+    
+}
+    
+    
